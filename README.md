@@ -1,5 +1,3 @@
-Sure, here is an example README file for SightEase in markdown:
-
 SightEase
 SightEase is a web application that uses machine learning algorithms to detect and recognize objects in images and videos, with the goal of making visual content more accessible to people with visual impairments.
 
