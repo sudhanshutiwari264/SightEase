@@ -1,4 +1,4 @@
-SightEase is a web application that utilizes advanced machine learning algorithms to recognize and detect objects in images and videos. Its primary objective is to make visual content easily accessible to people with visual impairments.
+SightEase is a web application that Plans to utilize advanced machine learning algorithms to recognize and detect objects in images and videos. Its primary objective is to make visual content easily accessible to people with visual impairments.
 
 To preview the website, click on this https://sudhanshutiwari264.github.io/SightEase/index.html.
 
